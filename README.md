@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishqawasthi&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqawasthi" /> </p>
 
-- 🔭 I’m currently working on [Chatter Box](https://github.com/tanishqawasthi/chatter-box)
+- 🔭 I’m currently working on [Promptopia](https://github.com/tanishqawasthi/promptopia)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **front-end development.**
 
